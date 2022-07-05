@@ -4,15 +4,15 @@ import { Link } from 'react-router-dom';
 
 function NavLog() {
   return (
-    <nav className='nav'>
+    <nav className='NavLog'>
       <Link className='link' to='/'>
         Home
-      </Link>{' '}
-      |{' '}
+      </Link>
+      {'  '}|{'  '}
       <Link className='link' to='/login'>
         Login
-      </Link>{' '}
-      |{' '}
+      </Link>
+      {'  '}|{'  '}
       <Link className='link' to='/register'>
         Signup
       </Link>
