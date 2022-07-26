@@ -5,7 +5,7 @@ function Login() {
     <div>
       <h1>Login</h1>
       <h4>Username</h4>
-      <input placeholder='username'></input>
+      <input placeholder='email or username'></input>
       <h4>Password</h4>
       <input placeholder='password'></input>
     </div>
